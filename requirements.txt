@@ -4,7 +4,7 @@ black==19.10b0
 certifi==2019.11.28
 cffi==1.13.2
 Click==7.0
-cryptography==2.8
+cryptography==3.2
 future==0.18.2
 pathspec==0.6.0
 pycparser==2.19
